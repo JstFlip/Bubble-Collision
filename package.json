@@ -1,0 +1,25 @@
+{
+  "name": "bouncing-bubbles",
+  "version": "1.0.0",
+  "description": "Bubble collision in 2D",
+  "main": "webpack.config.js",
+  "scripts": {
+    "dev": "webpack --config webpack.config.js",
+    "start": "webpack --config webpack.config.js"
+  },
+  "keywords": ["bubbles", "bouncing bubbles"],
+  "author": "JstFlip",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/preset-env": "^7.12.16",
+    "babel-loader": "^8.2.2",
+    "browser-sync": "^2.26.14",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "html-webpack-plugin": "^5.1.0",
+    "prettier": "^2.2.1",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
