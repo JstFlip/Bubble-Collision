@@ -1,2 +1,2 @@
 # Bubble-Collision
-Bubble cillision in JS Canvas
+Bubble collision in JS Canvas
